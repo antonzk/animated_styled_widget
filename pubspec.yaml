@@ -15,7 +15,10 @@ dependencies:
 
   flutter_class_parser: ^0.2.4
 
-  morphable_shape: ^1.6.4
+  morphable_shape:
+    git:
+      url: https://github.com/antonzk/morphable_shape.git
+      ref: main
 
   tuple: ^2.0.0
 
